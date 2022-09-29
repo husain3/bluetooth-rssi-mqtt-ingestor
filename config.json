@@ -1,6 +1,6 @@
 {
   "username": "",
   "password": "",
-  "mqtt_server_ip": "",
+  "mqtt_broker_ip": "",
   "mqtt_topic": ""
 }
